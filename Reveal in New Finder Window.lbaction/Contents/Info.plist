@@ -46,7 +46,7 @@
 			<key>LBResultType</key>
 			<string>string</string>
 			<key>LBScriptName</key>
-			<string>default.scpt</string>
+			<string>default.applescript</string>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
