@@ -1,20 +1,29 @@
+
 property BBEDIT : "com.barebones.BBEdit"
 
--- is application running?
-on app_running(bundleId)
+(*
+ @param bundleId - bundle id of application 
+*)
+on isApplicationRunning(bundleId)
 	tell application "System Events"
 		return (bundle identifier of processes) contains bundleId
 	end tell
-end app_running
+end isApplicationRunning
 
 on run
-	if app_running(BBEDIT) then
+	-- if BBEdit is not running, beep and exit
+	if (not isApplicationRunning(BBEDIT)) then
+		beep
+		return
+	else
 		tell application "BBEdit"
+			-- if no windows are open, beep and exit
 			if ((count of text windows) is 0) then
 				beep
+				return
 			else
-				set win to text window 1
-				set doc to document of win
+				-- retrieve frontmost document and return its info
+				set doc to document of text window 1
 				set docfile to file of doc
 				try
 					set returnObject to [{|path|:docfile, title:POSIX path of docfile}]
@@ -24,7 +33,5 @@ on run
 				end try
 			end if
 		end tell
-	else
-		beep
 	end if
 end run
