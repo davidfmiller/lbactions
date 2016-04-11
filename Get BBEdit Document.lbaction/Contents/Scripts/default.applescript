@@ -26,7 +26,7 @@ on run
 				set doc to document of text window 1
 				set docfile to file of doc
 				try
-					set returnObject to [{|path|:docfile, title:POSIX path of docfile}]
+					set returnObject to [{|path|:docfile, title:POSIX path of docfile, subtitle:"Retrieve frontmost document in BBEdit"}]
 					return returnObject
 				on error
 					beep

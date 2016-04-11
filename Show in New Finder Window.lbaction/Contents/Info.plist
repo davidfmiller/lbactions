@@ -3,15 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>CopyActionTemplate</string>
+	<string>com.apple.Finder</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.copyFileContents</string>
+	<string>com.readmeansrun.lbactions.showInNewFinderWindow</string>
 	<key>CFBundleName</key>
-	<string>Copy File Contents</string>
+	<string>Show in New Finder Window</string>
 	<key>CFBundleVersion</key>
 	<string>0.1.1</string>
 	<key>LBArgument</key>
 	<string>Path</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.apple.Finder</string>
 	<key>LBDebugLogEnabled</key>
 	<true/>
 	<key>LBDescription</key>
@@ -23,12 +25,14 @@
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
 		<key>LBSummary</key>
-		<string>Copies the contents of the input file to the clipboard (/pasteboard)</string>
+		<string>Creates a new Finder window at the selected path</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
 		<string>http://readmeansrun.com</string>
 	</dict>
+	<key>LBRequiredApplication</key>
+	<string>com.apple.Finder</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -42,7 +46,7 @@
 			<key>LBResultType</key>
 			<string>string</string>
 			<key>LBScriptName</key>
-			<string>default.swift</string>
+			<string>default.applescript</string>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
