@@ -3,36 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>com.apple.Finder</string>
+	<string>ActionTemplate</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.showInNewFinderWindow</string>
+	<string>com.readmeansrun.lbactions.base64Encode</string>
 	<key>CFBundleName</key>
-	<string>Show in New Finder Window</string>
-	<key>CFBundleVersion</key>
-	<string>0.1.1</string>
-	<key>LBArgument</key>
-	<string>Path</string>
-	<key>LBAssociatedApplication</key>
-	<string>com.apple.Finder</string>
-	<key>LBDebugLogEnabled</key>
-	<true/>
+	<string>Make Data URI</string>
 	<key>LBDescription</key>
 	<dict>
-		<key>LBArgument</key>
-		<string>Path</string>
 		<key>LBAuthor</key>
 		<string>David Miller</string>
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
-		<key>LBSummary</key>
-		<string>Creates a new Finder window at the selected path</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
 		<string>http://readmeansrun.com</string>
 	</dict>
-	<key>LBRequiredApplication</key>
-	<string>com.apple.Finder</string>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -41,14 +29,20 @@
 			<array>
 				<string>path</string>
 			</array>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBRequiresArgument</key>
+			<true/>
 			<key>LBResultType</key>
 			<string>string</string>
+			<key>LBReturnsResult</key>
+			<true/>
 			<key>LBScriptName</key>
-			<string>default.applescript</string>
+			<string>default.swift</string>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.*</string>
+	<string>10</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>(c) 2016 READMEANSRUN</string>
 </dict>
