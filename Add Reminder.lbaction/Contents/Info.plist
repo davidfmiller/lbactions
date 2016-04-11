@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>com.apple.Notes</string>
+	<string>com.apple.reminders</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.addToNotes</string>
+	<string>com.readmeansrun.lbactions.addReminder</string>
 	<key>CFBundleName</key>
-	<string>Add to Notes</string>
+	<string>Add Reminder</string>
 	<key>LBAssociatedApplication</key>
-	<string>com.apple.Notes</string>
+	<string>com.apple.Reminders</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
@@ -21,10 +21,8 @@
 		<key>LBWebsiteURL</key>
 		<string>http://readmeansrun.com</string>
 	</dict>
-	<key>LBMinimumLaunchBarVersion</key>
-	<integer>6</integer>
 	<key>LBRequiredApplication</key>
-	<string>com.apple.Notes</string>
+	<string>com.apple.Reminders</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -32,18 +30,13 @@
 			<key>LBAcceptedArgumentTypes</key>
 			<array>
 				<string>string</string>
-				<string>path</string>
 			</array>
-			<key>LBRequiresArgument</key>
-			<true/>
 			<key>LBResultType</key>
 			<string>unknown</string>
 			<key>LBScriptName</key>
-			<string>default.py</string>
+			<string>default.applescript</string>
 		</dict>
 	</dict>
-	<key>LSMinimumSystemVersion</key>
-	<string>10</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>(c) 2016 READMEANSRUN</string>
 </dict>
