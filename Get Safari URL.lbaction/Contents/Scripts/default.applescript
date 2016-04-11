@@ -12,10 +12,14 @@ on run
 	if app_running(SAFARI) then
 		-- Info the current Safari tab back to Launchbar
 		tell application "Safari"
-			set theURL to URL of current tab of window 1
-			set theTitle to name of current tab of window 1
-			set theLink to theTitle & " " & theURL as string
-			return [{title:theURL, |URL|:theURL, icon:"URL.icns"}]
+			try
+				set theURL to URL of current tab of window 1
+				set theTitle to name of current tab of window 1
+				set theLink to theTitle & " " & theURL as string
+				return [{title:theURL, |URL|:theURL, icon:"URL.icns"}]
+			on error
+				beep
+			end try
 		end tell
 	else
 		beep
