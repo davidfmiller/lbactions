@@ -2,343 +2,343 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>;alien</key>
+	<key>alien</key>
 	<string>👽</string>
-	<key>;angel</key>
+	<key>angel</key>
 	<string>😇</string>
-	<key>;apple</key>
+	<key>apple</key>
 	<string>🍎</string>
-	<key>;bag</key>
+	<key>bag</key>
 	<string>👜</string>
-	<key>;banana</key>
+	<key>banana</key>
 	<string>🍌</string>
-	<key>;battery</key>
+	<key>battery</key>
 	<string>🔋</string>
-	<key>;beer</key>
+	<key>beer</key>
 	<string>🍺</string>
-	<key>;bbq</key>
+	<key>bbq</key>
 	<string>🍖</string>
-	<key>;bell</key>
+	<key>bell</key>
 	<string>🔔</string>
-	<key>;bike</key>
+	<key>bike</key>
 	<string>🚲</string>
-	<key>;blind</key>
+	<key>blind</key>
 	<string>🙈</string>
-	<key>;boat</key>
+	<key>boat</key>
 	<string>⛵</string>
-	<key>;bolt</key>
+	<key>bolt</key>
 	<string>⚡️</string>
-	<key>;bomb</key>
+	<key>bomb</key>
 	<string>💣</string>
-	<key>;book</key>
+	<key>book</key>
 	<string>📘</string>
-	<key>;boom</key>
+	<key>boom</key>
 	<string>💥</string>
-	<key>;boot</key>
+	<key>boot</key>
 	<string>👢</string>
-	<key>;bowling</key>
+	<key>bowling</key>
 	<string>🎳</string>
-	<key>;burger</key>
+	<key>burger</key>
 	<string>🍔</string>
-	<key>;bus</key>
+	<key>bus</key>
 	<string>🚌</string>
-	<key>;button</key>
+	<key>button</key>
 	<string>🖲</string>
-	<key>;bzzz</key>
+	<key>bzzz</key>
 	<string>🐝</string>
-	<key>;cake</key>
+	<key>cake</key>
 	<string>🍰</string>
-	<key>;calendar</key>
+	<key>calendar</key>
 	<string>📅</string>
-	<key>;camera</key>
+	<key>camera</key>
 	<string>📷</string>
-	<key>;canada</key>
+	<key>canada</key>
 	<string>🇨🇦</string>
-	<key>;candy</key>
+	<key>candy</key>
 	<string>🍬</string>
-	<key>;car</key>
+	<key>car</key>
 	<string>🚙</string>
-	<key>;cat</key>
+	<key>cat</key>
 	<string>🐱</string>
-	<key>;chat</key>
+	<key>chat</key>
 	<string>💬</string>
-	<key>;check</key>
+	<key>check</key>
 	<string>✅</string>
-	<key>;chicken</key>
+	<key>chicken</key>
 	<string>🐔</string>
-	<key>;clap</key>
+	<key>clap</key>
 	<string>👏🏻</string>
-	<key>;coffee</key>
+	<key>coffee</key>
 	<string>☕️</string>
-	<key>;computer</key>
+	<key>computer</key>
 	<string>💻</string>
-	<key>;cookie</key>
+	<key>cookie</key>
 	<string>🍪</string>
-	<key>;cool</key>
+	<key>cool</key>
 	<string>😎</string>
-	<key>;couple</key>
+	<key>couple</key>
 	<string>👫</string>
-	<key>;cow</key>
+	<key>cow</key>
 	<string>🐮</string>
-	<key>;crown</key>
+	<key>crown</key>
 	<string>👑</string>
-	<key>;dark</key>
+	<key>dark</key>
 	<string>🌑</string>
-	<key>;dream</key>
+	<key>dream</key>
 	<string>💭</string>
-	<key>;darts</key>
+	<key>darts</key>
 	<string>🎯</string>
-	<key>;deaf</key>
+	<key>deaf</key>
 	<string>🙉</string>
-	<key>;dick</key>
+	<key>dick</key>
 	<string>🍆</string>
-	<key>;dog</key>
+	<key>dog</key>
 	<string>🐶</string>
-	<key>;donut</key>
+	<key>donut</key>
 	<string>🍩</string>
-	<key>;dress</key>
+	<key>dress</key>
 	<string>👗</string>
-	<key>;drop</key>
+	<key>drop</key>
 	<string>💧</string>
-	<key>;egg</key>
+	<key>egg</key>
 	<string>🍳</string>
-	<key>;elephant</key>
+	<key>elephant</key>
 	<string>🐘</string>
-	<key>;fax</key>
+	<key>fax</key>
 	<string>📠</string>
-	<key>;fire</key>
+	<key>fire</key>
 	<string>🔥</string>
-	<key>;fish</key>
+	<key>fish</key>
 	<string>🐟</string>
-	<key>;fist</key>
+	<key>fist</key>
 	<string>👊🏻</string>
-	<key>;flex</key>
+	<key>flex</key>
 	<string>💪🏻</string>
-	<key>;flower</key>
+	<key>flower</key>
 	<string>🌻</string>
-	<key>;frog</key>
+	<key>frog</key>
 	<string>🐸</string>
-	<key>;gift</key>
+	<key>gift</key>
 	<string>🎁</string>
-	<key>;globe</key>
+	<key>globe</key>
 	<string>🌏</string>
-	<key>;golf</key>
+	<key>golf</key>
 	<string>⛳️</string>
-	<key>;grandma</key>
+	<key>grandma</key>
 	<string>👵🏻</string>
-	<key>;grandpa</key>
+	<key>grandpa</key>
 	<string>👴🏻</string>
-	<key>;grr</key>
+	<key>grr</key>
 	<string>😡</string>
-	<key>;icecream</key>
+	<key>icecream</key>
 	<string>🍦</string>
-	<key>;gun</key>
+	<key>gun</key>
 	<string>🔫</string>
-	<key>;hmm</key>
+	<key>hmm</key>
 	<string>🤔</string>
-	<key>;home</key>
+	<key>home</key>
 	<string>🏡</string>
-	<key>;horse</key>
+	<key>horse</key>
 	<string>🐴</string>
-	<key>;kiss</key>
+	<key>kiss</key>
 	<string>😘</string>
-	<key>;knife</key>
+	<key>knife</key>
 	<string>🔪</string>
-	<key>;lame</key>
+	<key>lame</key>
 	<string>👎🏻</string>
-	<key>;lemon</key>
+	<key>lemon</key>
 	<string>🍋</string>
-	<key>;lime</key>
+	<key>lime</key>
 	<string>🍈</string>
-	<key>;lion</key>
+	<key>lion</key>
 	<string>🦁</string>
-	<key>;lock</key>
+	<key>lock</key>
 	<string>🔒</string>
-	<key>;lol</key>
+	<key>lol</key>
 	<string>🙊</string>
-	<key>;love</key>
+	<key>love</key>
 	<string>💗</string>
-	<key>;mail</key>
+	<key>mail</key>
 	<string>✉️</string>
-	<key>;magic</key>
+	<key>magic</key>
 	<string>✨</string>
-	<key>;map</key>
+	<key>map</key>
 	<string>📍</string>
-	<key>;man</key>
+	<key>man</key>
 	<string>👨🏻</string>
-	<key>;mintz</key>
+	<key>mintz</key>
 	<string>🔏</string>
-	<key>;monkey</key>
+	<key>monkey</key>
 	<string>🐵</string>
-	<key>;moon</key>
+	<key>moon</key>
 	<string>🌙</string>
-	<key>;movie</key>
+	<key>movie</key>
 	<string>🎥</string>
-	<key>;mouse</key>
+	<key>mouse</key>
 	<string>🐭</string>
-	<key>;music</key>
+	<key>music</key>
 	<string>🎵</string>
-	<key>;needle</key>
+	<key>needle</key>
 	<string>💉</string>
-	<key>;nails</key>
+	<key>nails</key>
 	<string>💅🏻</string>
-	<key>;nerd</key>
+	<key>nerd</key>
 	<string>🤓</string>
-	<key>;nut</key>
+	<key>nut</key>
 	<string>🌰</string>
-	<key>;no</key>
+	<key>no</key>
 	<string>🚫</string>
-	<key>;ok</key>
+	<key>ok</key>
 	<string>👌🏻</string>
-	<key>;pants</key>
+	<key>pants</key>
 	<string>👖</string>
-	<key>;party</key>
+	<key>party</key>
 	<string>🎉🎊</string>
-	<key>;pasta</key>
+	<key>pasta</key>
 	<string>🍝</string>
-	<key>;peach</key>
+	<key>peach</key>
 	<string>🍑</string>
-	<key>;pig</key>
+	<key>pig</key>
 	<string>🐷</string>
-	<key>;phone</key>
+	<key>phone</key>
 	<string>📞</string>
-	<key>;pizza</key>
+	<key>pizza</key>
 	<string>🍕</string>
-	<key>;pill</key>
+	<key>pill</key>
 	<string>💊</string>
-	<key>;plane</key>
+	<key>plane</key>
 	<string>✈️</string>
-	<key>;poo</key>
+	<key>poo</key>
 	<string>💩</string>
-	<key>;pin</key>
+	<key>pin</key>
 	<string>📌</string>
-	<key>;race</key>
+	<key>race</key>
 	<string>🏁</string>
-	<key>;run</key>
+	<key>run</key>
 	<string>🏃🏻</string>
-	<key>;shoe</key>
+	<key>shoe</key>
 	<string>👞</string>
-	<key>;snake</key>
+	<key>snake</key>
 	<string>🐍</string>
-	<key>;snow</key>
+	<key>snow</key>
 	<string>❄️</string>
-	<key>;soccer</key>
+	<key>soccer</key>
 	<string>⚽️</string>
-	<key>;star</key>
+	<key>star</key>
 	<string>⭐️</string>
-	<key>;sun</key>
+	<key>sun</key>
 	<string>☀️</string>
-	<key>;swim</key>
+	<key>swim</key>
 	<string>🏊</string>
-	<key>;tennis</key>
+	<key>tennis</key>
 	<string>🎾</string>
-	<key>;thx</key>
+	<key>thx</key>
 	<string>👍🏻</string>
-	<key>;train</key>
+	<key>train</key>
 	<string>🚂</string>
-	<key>;trophy</key>
+	<key>trophy</key>
 	<string>🏆</string>
-	<key>;tv</key>
+	<key>tv</key>
 	<string>📺</string>
-	<key>;uk</key>
+	<key>uk</key>
 	<string>🇬🇧</string>
-	<key>;unicorn</key>
+	<key>unicorn</key>
 	<string>🦄</string>
-	<key>;usa</key>
+	<key>usa</key>
 	<string>🇺🇸</string>
-	<key>;van</key>
+	<key>van</key>
 	<string>🚐</string>
-	<key>;wave</key>
+	<key>wave</key>
 	<string>👋🏻</string>
-	<key>;wind</key>
+	<key>wind</key>
 	<string>💨</string>
-	<key>;wine</key>
+	<key>wine</key>
 	<string>🍷</string>
-	<key>;wow</key>
+	<key>wow</key>
 	<string>😳</string>
-	<key>;woman</key>
+	<key>woman</key>
 	<string>👩🏼</string>
-	<key>;x</key>
+	<key>x</key>
 	<string>❌</string>
-	<key>;zoom</key>
+	<key>zoom</key>
 	<string>🔍</string>
-	<key>;$</key>
+	<key>$</key>
 	<string>💰</string>
-	<key>;zzz</key>
+	<key>zzz</key>
 	<string>😴</string>
-	<key>;:)</key>
+	<key>:)</key>
 	<string>😊</string>
-	<key>;;)</key>
+	<key>;)</key>
 	<string>😉</string>
-	<key>;:P</key>
+	<key>:P</key>
 	<string>😝</string>
-	<key>;:D</key>
+	<key>:D</key>
 	<string>😄</string>
-	<key>;:|</key>
+	<key>:|</key>
 	<string>😐</string>
-	<key>;yum</key>
+	<key>yum</key>
 	<string>😋</string>
-	<key>;:(</key>
+	<key>:(</key>
 	<string>😔</string>
-	<key>;:&apos;(</key>
+	<key>:&apos;(</key>
 	<string>😭</string>
-	<key>;shrug</key>
+	<key>shrug</key>
 	<string>¯\_(ツ)_/¯</string>
-	<key>;reg</key>
+	<key>reg</key>
 	<string>®</string>
-	<key>;euro</key>
+	<key>euro</key>
 	<string>€</string>
-	<key>;yen</key>
+	<key>yen</key>
 	<string>¥</string>
-	<key>;tm</key>
+	<key>tm</key>
 	<string>™</string>
-	<key>;copy</key>
+	<key>copy</key>
 	<string>©</string>
-	<key>;cmd</key>
+	<key>cmd</key>
 	<string>⌘</string>
-	<key>;degree</key>
+	<key>degree</key>
 	<string>º</string>
-	<key>;1/2</key>
+	<key>1/2</key>
 	<string>½</string>
-	<key>;-&gt;</key>
+	<key>-&gt;</key>
 	<string>→</string>
-	<key>;down</key>
+	<key>down</key>
 	<string>↓</string>
-	<key>;--</key>
+	<key>--</key>
 	<string>—</string>
-	<key>;up</key>
+	<key>up</key>
 	<string>↑</string>
-	<key>;!=</key>
+	<key>!=</key>
 	<string>≠</string>
-	<key>;&lt;-</key>
+	<key>&lt;-</key>
 	<string>←</string>
-	<key>;...</key>
+	<key>...</key>
 	<string>…</string>
-	<key>;&lt;=</key>
+	<key>&lt;=</key>
 	<string>≤</string>
-	<key>;&gt;=</key>
+	<key>&gt;=</key>
 	<string>≥</string>
-	<key>;haters</key>
+	<key>haters</key>
 	<string>http://hyperallergic.com/wp-content/uploads/2015/01/jamel-musson-chappelles-show.jpg</string>
-	<key>;idontcare</key>
+	<key>idontcare</key>
 	<string>https://www.youtube.com/watch?v=1NNx26bkI9I</string>
-	<key>;ilikemoney</key>
+	<key>ilikemoney</key>
 	<string>https://www.youtube.com/watch?v=sZHCVyllnck</string>
-	<key>;listentoyourheart</key>
+	<key>listentoyourheart</key>
 	<string>https://www.youtube.com/watch?v=yCC_b5WHLX0</string>
-	<key>;mindblown</key>
+	<key>mindblown</key>
 	<string>http://mashable.com/wp-content/uploads/2013/08/mind-blown.gif</string>
-	<key>;over</key>
+	<key>over</key>
 	<string>https://www.youtube.com/watch?v=YlGqN3AKOsA</string>
-	<key>;schwifty</key>
+	<key>schwifty</key>
 	<string>https://www.youtube.com/watch?v=I1188GO4p1E</string>
-	<key>;gtfo</key>
+	<key>gtfo</key>
 	<string>https://www.youtube.com/watch?v=IqP76XWHQI0</string>
-	<key>;doit</key>
+	<key>doit</key>
 	<string>https://www.youtube.com/watch?v=ZXsQAXx_ao0</string>
-	<key>;buttinthegym</key>
+	<key>buttinthegym</key>
 	<string>https://www.youtube.com/watch?v=uoLHxkKtJZw&amp;feature=youtu.be</string>
-	<key>;blogger</key>
+	<key>blogger</key>
 	<string>http://southparkstudios.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg</string>
 </dict>
 </plist>
