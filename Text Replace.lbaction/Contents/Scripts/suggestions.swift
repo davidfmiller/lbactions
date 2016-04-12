@@ -3,27 +3,33 @@
 import Foundation
 import Cocoa
 
-let argument = Array(Process.arguments[1 ..< Process.arguments.count])[0]
+let arguments = Array(Process.arguments[1 ..< Process.arguments.count])
 
-let PATH = "../Resources/textexpander.plist"
-
-let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
-
-let keys : [String] = dict.allKeys as! [String]
-
-let filtered = keys.filter() {
-    return $0.rangeOfString(argument) != nil
-}
-
-var buf = ""
-
-for key in filtered
+if arguments.count < 1
 {
-    buf += (key + "\n")
 }
+else
+{
+    let PATH = "../Resources/textexpander.plist"
 
-print(
-    buf.stringByTrimmingCharactersInSet(
-        NSCharacterSet.whitespaceAndNewlineCharacterSet()
+    let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
+
+    let keys : [String] = dict.allKeys as! [String]
+
+    let filtered = keys.filter() {
+        return $0.rangeOfString(arguments[0]) != nil
+    }
+
+    var buf = ""
+
+    for key in filtered
+    {
+        buf += (key + "\n")
+    }
+
+    print(
+        buf.stringByTrimmingCharactersInSet(
+            NSCharacterSet.whitespaceAndNewlineCharacterSet()
+        )
     )
-)
+}
