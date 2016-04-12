@@ -7,7 +7,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.readmeansrun.lbactions.textReplace</string>
 	<key>CFBundleName</key>
-	<string>Text Replace</string>
+	<string>Replace Text</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
 	<key>LBArgument</key>

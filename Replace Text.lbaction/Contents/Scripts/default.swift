@@ -7,7 +7,7 @@ import Cocoa
 
 let arguments = Array(Process.arguments[1 ..< Process.arguments.count])
 
-let PATH = "../Resources/textreplace-default.plist"
+let PATH = "../Resources/ReplaceTextDefault.plist"
 
 let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
 
