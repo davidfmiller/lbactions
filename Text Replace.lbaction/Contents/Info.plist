@@ -5,20 +5,32 @@
 	<key>CFBundleIconFile</key>
 	<string>StringTransformationTemplate</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.textExpander</string>
+	<string>com.readmeansrun.lbactions.textReplace</string>
 	<key>CFBundleName</key>
-	<string>Text Lookup</string>
+	<string>Text Replace</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>LBArgument</key>
+	<string>String</string>
 	<key>LBDescription</key>
 	<dict>
+		<key>LBArgument</key>
+		<string>String</string>
 		<key>LBAuthor</key>
 		<string>David Miller</string>
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
+		<key>LBResult</key>
+		<string>String</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
 		<string>http://readmeansrun.com</string>
 	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
+	<key>LBResult</key>
+	<string>String</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -58,6 +70,8 @@
 	</dict>
 	<key>LBTextInputTitle</key>
 	<string>Key</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>(c) 2016 READMEANSRUN</string>
 </dict>
