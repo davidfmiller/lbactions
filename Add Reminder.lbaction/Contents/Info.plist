@@ -31,6 +31,8 @@
 			<array>
 				<string>string</string>
 			</array>
+			<key>LBRequiresArgument</key>
+			<true/>
 			<key>LBResultType</key>
 			<string>unknown</string>
 			<key>LBScriptName</key>

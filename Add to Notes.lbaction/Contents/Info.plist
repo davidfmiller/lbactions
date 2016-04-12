@@ -32,7 +32,6 @@
 			<key>LBAcceptedArgumentTypes</key>
 			<array>
 				<string>string</string>
-				<string>path</string>
 			</array>
 			<key>LBRequiresArgument</key>
 			<true/>
