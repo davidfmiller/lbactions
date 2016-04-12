@@ -41,6 +41,8 @@
 			<string>default.py</string>
 		</dict>
 	</dict>
+	<key>LBTextInputTitle</key>
+	<string>Content</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10</string>
 	<key>NSHumanReadableCopyright</key>
