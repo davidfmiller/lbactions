@@ -36,6 +36,25 @@
 			<key>LBScriptName</key>
 			<string>default.swift</string>
 		</dict>
+		<key>LBSuggestionsScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBLiveFeedbackEnabled</key>
+			<true/>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>suggestions.swift</string>
+		</dict>
 	</dict>
 	<key>LBTextInputTitle</key>
 	<string>Key</string>
