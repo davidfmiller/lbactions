@@ -10,7 +10,7 @@ if arguments.count < 1
 }
 else
 {
-    let PATH = "../Resources/textexpander.plist"
+    let PATH = "../Resources/textreplace-default.plist"
 
     let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
 
