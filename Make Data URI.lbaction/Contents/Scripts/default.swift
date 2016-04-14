@@ -32,6 +32,8 @@ for path in arguments
             mime = "text/css"
         case "js":
             mime = "application/javascript"
+        case "svg":
+            mime = "image/svg+xml"
         case "json":
             mime = "application/javascript"
         default:
