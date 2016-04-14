@@ -20,6 +20,6 @@ for arg in arguments
     }
     else
     {
-        print("👽")
+        print(arg)
     }
 }
