@@ -17,7 +17,7 @@ else
     let keys : [String] = dict.allKeys as! [String]
 
     let filtered = keys.filter() {
-        return $0.rangeOfString(arguments[0]) != nil
+        return $0.rangeOfString(arguments[0].stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())) != nil
     }
 
     var buf = ""

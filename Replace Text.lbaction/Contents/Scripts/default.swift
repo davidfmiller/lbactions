@@ -13,7 +13,9 @@ let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
 
 for arg in arguments
 {
-    let value = dict.objectForKey(arg) as? String
+    print("(\(arg))")
+
+    let value = dict.objectForKey(arg.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())) as? String
     if value != nil
     {
         print(value!)
