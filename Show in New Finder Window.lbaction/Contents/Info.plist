@@ -29,7 +29,7 @@
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
-		<string>http://readmeansrun.com</string>
+		<string>http://davidfmiller.github.io/lbactions/</string>
 	</dict>
 	<key>LBRequiredApplication</key>
 	<string>com.apple.Finder</string>
