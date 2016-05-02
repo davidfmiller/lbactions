@@ -83,7 +83,7 @@
 	<key>crown</key>
 	<string>👑</string>
 	<key>dark</key>
-	<string>🌑</string>
+	<string>🌚</string>
 	<key>dream</key>
 	<string>💭</string>
 	<key>darts</key>
@@ -190,6 +190,8 @@
 	<string>🚫</string>
 	<key>ok</key>
 	<string>👌🏻</string>
+	<key>package</key>
+	<string>📦</string>
 	<key>pants</key>
 	<string>👖</string>
 	<key>party</key>
@@ -212,6 +214,8 @@
 	<string>💩</string>
 	<key>pin</key>
 	<string>📌</string>
+	<key>princess</key>
+	<string>👸🏻</string>
 	<key>race</key>
 	<string>🏁</string>
 	<key>run</key>
@@ -274,6 +278,8 @@
 	<string>😝</string>
 	<key>:D</key>
 	<string>😄</string>
+	<key>mute</key>
+	<string>😶</string>
 	<key>:|</key>
 	<string>😐</string>
 	<key>yum</key>
@@ -332,6 +338,8 @@
 	<string>http://mashable.com/wp-content/uploads/2013/08/mind-blown.gif</string>
 	<key>over</key>
 	<string>https://www.youtube.com/watch?v=YlGqN3AKOsA</string>
+	<key>inurbase</key>
+	<string>http://images.figure.fm/cgm/images/post/20110325/25508/208892/large/17aa488bb68c82c24026e9e728282cc2.jpg</string>
 	<key>schwifty</key>
 	<string>https://www.youtube.com/watch?v=I1188GO4p1E</string>
 	<key>gtfo</key>

@@ -13,13 +13,13 @@ let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
 
 for arg in arguments
 {
-    let value = dict.objectForKey(arg) as? String
+    let value = dict.objectForKey(arg.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())) as? String
     if value != nil
     {
         print(value!)
     }
     else
     {
-        print("👽")
+        print(arg)
     }
 }

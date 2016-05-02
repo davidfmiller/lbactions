@@ -16,24 +16,30 @@ for path in arguments
     
     switch(pathExtension)
     {
+        case "css":
+            mime = "text/css"
+        case "gif":
+            mime = "image/png"
+        case "htm":
+            mime = "text/html"
+        case "html":
+            mime = "text/html"
+        case "jpg":
+            mime = "image/jpeg"
+        case "jpeg":
+            mime = "image/jpeg"
+        case "js":
+            mime = "application/javascript"
+        case "json":
+            mime = "application/javascript"
         case "pdf":
             mime = "application/pdf"
         case "png":
             mime = "image/png"
             break;
-        case "jpg":
-            mime = "image/jpeg"
-        case "jpeg":
-            mime = "image/jpeg"
-        case "gif":
-            mime = "image/png"
-            break;
-        case "css":
-            mime = "text/css"
-        case "js":
-            mime = "application/javascript"
-        case "json":
-            mime = "application/javascript"
+
+        case "svg":
+            mime = "image/svg+xml"
         default:
             mime = "text/plain"
         
