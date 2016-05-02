@@ -83,7 +83,7 @@
 	<key>crown</key>
 	<string>👑</string>
 	<key>dark</key>
-	<string>🌑</string>
+	<string>🌚</string>
 	<key>dream</key>
 	<string>💭</string>
 	<key>darts</key>
@@ -214,6 +214,8 @@
 	<string>💩</string>
 	<key>pin</key>
 	<string>📌</string>
+	<key>princess</key>
+	<string>👸🏻</string>
 	<key>race</key>
 	<string>🏁</string>
 	<key>run</key>

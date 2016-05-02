@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>StringTransformationTemplate</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.readmeansrun.lbactions.Minimize</string>
+	<key>CFBundleName</key>
+	<string>Minimize</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>LBArgument</key>
+	<string>String</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBArgument</key>
+		<string>String</string>
+		<key>LBAuthor</key>
+		<string>David Miller</string>
+		<key>LBEmail</key>
+		<string>davidfmiller@me.com</string>
+		<key>LBResult</key>
+		<string>String</string>
+		<key>LBSummary</key>
+		<string>Removes duplicate white space from input</string>
+		<key>LBTwitter</key>
+		<string>@eldaverino</string>
+		<key>LBWebsiteURL</key>
+		<string>http://readmeansrun.com</string>
+	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
+	<key>LBResult</key>
+	<string>String</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBKeepWindowActive</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>string</string>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.py</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>(c) 2016 READMEANSRUN</string>
+</dict>
+</plist>
