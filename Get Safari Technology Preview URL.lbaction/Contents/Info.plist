@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>com.apple.SafariTechnologyPreview</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.LaunchBar.action.GetSafariURLCopy</string>
+	<string>com.readmeansrun.lbactions.safariTechnologyPreviewURL</string>
 	<key>CFBundleName</key>
 	<string>Get Safari Technology Preview URL</string>
 	<key>LBAssociatedApplication</key>

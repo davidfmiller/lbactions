@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>com.apple.Finder</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.getFinderPath</string>
+	<string>com.readmeansrun.lbactions.finderPath</string>
 	<key>CFBundleName</key>
 	<string>Get Finder Path</string>
 	<key>CFBundleVersion</key>

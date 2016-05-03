@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>com.apple.Safari</string>
+	<string>com.apple.dt.Xcode</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.safariURL</string>
+	<string>com.readmeansrun.lbactions.xcodeSourceFile</string>
 	<key>CFBundleName</key>
-	<string>Get Safari URL</string>
+	<string>Get Xcode Source File</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
 	<key>LBAssociatedApplication</key>
-	<string>com.apple.Safari</string>
+	<string>com.apple.dt.Xcode</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
 		<string>David Miller</string>
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
+		<key>LBSummary</key>
+		<string>Retrieve the frontmost source document in Xcode</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
@@ -24,7 +28,7 @@
 	<key>LBMinimumLaunchBarVersion</key>
 	<integer>6</integer>
 	<key>LBRequiredApplication</key>
-	<string>com.apple.Safari</string>
+	<string>com.apple.dt.Xcode</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -40,7 +44,7 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10</string>
+	<string>10.*</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>(c) 2016 READMEANSRUN</string>
 </dict>
