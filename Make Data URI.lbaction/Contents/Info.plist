@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>URL.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.base64Encode</string>
+	<string>com.readmeansrun.lbactions.makeDataURI</string>
 	<key>CFBundleName</key>
 	<string>Make Data URI</string>
 	<key>LBDescription</key>

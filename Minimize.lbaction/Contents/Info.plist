@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>StringTransformationTemplate</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.Minimize</string>
+	<string>com.readmeansrun.lbactions.minimize</string>
 	<key>CFBundleName</key>
 	<string>Minimize</string>
 	<key>CFBundleVersion</key>
