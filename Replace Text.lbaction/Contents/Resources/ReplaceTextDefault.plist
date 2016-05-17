@@ -52,6 +52,8 @@
 	<string>🍰</string>
 	<key>calendar</key>
 	<string>📅</string>
+	<key>caterpillar</key>
+	<string>🐛</string>
 	<key>camera</key>
 	<string>📷</string>
 	<key>canada</key>
@@ -106,6 +108,8 @@
 	<string>🍳</string>
 	<key>elephant</key>
 	<string>🐘</string>
+	<key>facetime</key>
+	<string> 👨🏻⏱</string>
 	<key>fax</key>
 	<string>📠</string>
 	<key>fire</key>
@@ -216,6 +220,8 @@
 	<string>💩</string>
 	<key>pin</key>
 	<string>📌</string>
+	<key>pray</key>
+	<string>🙏🏻</string>
 	<key>princess</key>
 	<string>👸🏻</string>
 	<key>race</key>
@@ -238,6 +244,8 @@
 	<string>🏊</string>
 	<key>tennis</key>
 	<string>🎾</string>
+	<key>timer</key>
+	<string>⏳</string>
 	<key>thx</key>
 	<string>👍🏻</string>
 	<key>train</key>
