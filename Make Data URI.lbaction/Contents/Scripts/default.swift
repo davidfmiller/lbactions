@@ -19,7 +19,7 @@ for path in arguments
         case "css":
             mime = "text/css"
         case "gif":
-            mime = "image/png"
+            mime = "image/gif"
         case "htm":
             mime = "text/html"
         case "html":
