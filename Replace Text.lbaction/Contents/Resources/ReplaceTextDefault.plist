@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>100</key>
+	<string>💯</string>
 	<key>alien</key>
 	<string>👽</string>
 	<key>angel</key>
@@ -72,6 +74,8 @@
 	<string>🐔</string>
 	<key>clap</key>
 	<string>👏🏻</string>
+	<key>clock</key>
+	<string>🕰</string>
 	<key>coffee</key>
 	<string>☕️</string>
 	<key>computer</key>
@@ -108,6 +112,8 @@
 	<string>🍳</string>
 	<key>elephant</key>
 	<string>🐘</string>
+	<key>eyes</key>
+	<string>👀</string>
 	<key>facetime</key>
 	<string> 👨🏻⏱</string>
 	<key>fax</key>
@@ -306,6 +312,8 @@
 	<string>¯\_(ツ)_/¯</string>
 	<key>reg</key>
 	<string>®</string>
+	<key>dagger</key>
+	<string>†</string>
 	<key>euro</key>
 	<string>€</string>
 	<key>yen</key>
@@ -338,6 +346,8 @@
 	<string>≤</string>
 	<key>&gt;=</key>
 	<string>≥</string>
+	<key>tenth</key>
+	<string>⅒</string>
 	<key>knowwhatimsaying</key>
 	<string>https://www.youtube.com/watch?v=FoWnIhDuW4g</string>
 	<key>haters</key>
