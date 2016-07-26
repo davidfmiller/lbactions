@@ -2,12 +2,20 @@ on run
 	
 	tell application "Xcode"
 		
-		set lastWord to (word -1 of (get name of window 1))
-		if (lastWord is equal to "Edited") then
-			set lastWord to (word -2 of (get name of window 1))
-		end if
+		set lastWord to ""
 		
-		set currentDocument to document 1 whose name ends with lastWord
+		try
+			set lastWord to (word -1 of (get name of window 1))
+			if (lastWord is equal to "Edited") then
+				set lastWord to (word -2 of (get name of window 1))
+			end if
+			
+			set currentDocument to document 1 whose name ends with lastWord
+		on error
+			beep
+			set returnObject to []
+			return
+		end try
 		
 		
 		try
