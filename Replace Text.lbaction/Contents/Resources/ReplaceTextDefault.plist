@@ -70,6 +70,8 @@
 	<string>💬</string>
 	<key>check</key>
 	<string>✅</string>
+	<key>cherry</key>
+	<string>🍒</string>
 	<key>chicken</key>
 	<string>🐔</string>
 	<key>clap</key>
@@ -297,7 +299,9 @@
 	<key>:P</key>
 	<string>😝</string>
 	<key>:D</key>
-	<string>😄</string>
+	<string>😃</string>
+	<key>devil</key>
+	<string>😈</string>
 	<key>mute</key>
 	<string>😶</string>
 	<key>:|</key>
