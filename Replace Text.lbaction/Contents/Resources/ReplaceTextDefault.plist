@@ -250,8 +250,6 @@
 	<string>⭐️</string>
 	<key>sun</key>
 	<string>☀️</string>
-	<key>surprise motherfucker</key>
-	<string>https://www.youtube.com/watch?v=_bSEfx6D8mA</string>
 	<key>swim</key>
 	<string>🏊</string>
 	<key>tennis</key>
@@ -342,6 +340,8 @@
 	<string>↑</string>
 	<key>!=</key>
 	<string>≠</string>
+	<key>tab</key>
+	<string>⇥</string>
 	<key>&lt;-</key>
 	<string>←</string>
 	<key>...</key>
@@ -352,6 +352,10 @@
 	<string>≥</string>
 	<key>tenth</key>
 	<string>⅒</string>
+	<key>america</key>
+	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
+	<key>fuckyou</key>
+	<string>https://www.youtube.com/watch?v=hTOKJTRHMdw</string>
 	<key>knowwhatimsaying</key>
 	<string>https://www.youtube.com/watch?v=FoWnIhDuW4g</string>
 	<key>haters</key>
@@ -368,12 +372,16 @@
 	<string>https://www.youtube.com/watch?v=YlGqN3AKOsA</string>
 	<key>inurbase</key>
 	<string>http://images.figure.fm/cgm/images/post/20110325/25508/208892/large/17aa488bb68c82c24026e9e728282cc2.jpg</string>
+	<key>payme</key>
+	<string>https://c2.staticflickr.com/6/5266/5696508703_c320530066_o.jpg</string>
 	<key>schwifty</key>
 	<string>https://www.youtube.com/watch?v=I1188GO4p1E</string>
 	<key>gtfo</key>
 	<string>https://www.youtube.com/watch?v=IqP76XWHQI0</string>
 	<key>doit</key>
 	<string>https://www.youtube.com/watch?v=ZXsQAXx_ao0</string>
+	<key>surprise motherfucker</key>
+	<string>https://www.youtube.com/watch?v=_bSEfx6D8mA</string>
 	<key>buttinthegym</key>
 	<string>https://www.youtube.com/watch?v=uoLHxkKtJZw&amp;feature=youtu.be</string>
 	<key>blogger</key>
