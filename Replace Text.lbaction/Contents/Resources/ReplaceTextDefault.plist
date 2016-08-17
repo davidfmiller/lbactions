@@ -320,16 +320,30 @@
 	<string>€</string>
 	<key>yen</key>
 	<string>¥</string>
+	<key>cent</key>
+	<string>¢</string>
 	<key>tm</key>
 	<string>™</string>
 	<key>copy</key>
 	<string>©</string>
 	<key>cmd</key>
 	<string>⌘</string>
+	<key>alt</key>
+	<string>⌥</string>
+	<key>esc</key>
+	<string>⎋</string>
+	<key>return</key>
+	<string>⏎</string>
+	<key>shift</key>
+	<string>⇧</string>
 	<key>degree</key>
 	<string>º</string>
+	<key>delete</key>
+	<string>⌫</string>
 	<key>1/2</key>
 	<string>½</string>
+	<key>appl</key>
+	<string></string>
 	<key>-&gt;</key>
 	<string>→</string>
 	<key>down</key>
