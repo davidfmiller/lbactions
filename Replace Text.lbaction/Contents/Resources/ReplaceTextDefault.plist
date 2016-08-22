@@ -250,6 +250,8 @@
 	<string>⭐️</string>
 	<key>sun</key>
 	<string>☀️</string>
+	<key>sushi</key>
+	<string>🍣</string>
 	<key>swim</key>
 	<string>🏊</string>
 	<key>tennis</key>
@@ -298,6 +300,8 @@
 	<string>😝</string>
 	<key>:D</key>
 	<string>😃</string>
+	<key>eww</key>
+	<string>😪</string>
 	<key>devil</key>
 	<string>😈</string>
 	<key>mute</key>
