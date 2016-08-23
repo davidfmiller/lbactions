@@ -2,23 +2,37 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleIconFile</key>
+	<string>URL.icns</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.readmeansrun.lbactions.LaunchBar.action.URL</string>
 	<key>CFBundleName</key>
 	<string>Get URL</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
+	<key>LBArgument</key>
+	<string>Filename</string>
 	<key>LBDescription</key>
 	<dict>
+		<key>LBArgument</key>
+		<string>Filename</string>
 		<key>LBAuthor</key>
 		<string>David Miller</string>
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
+		<key>LBResult</key>
+		<string>String</string>
+		<key>LBSummary</key>
+		<string>Retrieve the URL for a file; if it's a .webloc file then the URL that the file links to will be retrieved</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
 		<string>http://readmeansrun.com</string>
 	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
+	<key>LBResult</key>
+	<string>String</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
