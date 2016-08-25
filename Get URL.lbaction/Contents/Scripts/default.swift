@@ -10,7 +10,7 @@ let stderr = NSFileHandle.fileHandleWithStandardError()
 for arg in arguments
 {
     let url = NSURL(fileURLWithPath: arg)
-    
+
     var err: NSError?
     
     if !url.checkResourceIsReachableAndReturnError(&err)
@@ -18,20 +18,13 @@ for arg in arguments
         stderr.writeData("🚫  file `\(arg)` doesn't exist".dataUsingEncoding(NSUTF8StringEncoding)!)
         continue;
     }
-    
+
     var val = "\(url.absoluteURL)"
-    
+
     if url.pathExtension == "webloc"
     {
-        do {
-            let doc = try NSXMLDocument(contentsOfURL: url, options: Int(NSXMLDocumentContentKind.XMLKind.rawValue));
-            let nodes =  try doc.rootElement()!.nodesForXPath("./dict/string")
-            val = nodes[0].stringValue!
-        }
-        catch
-        {
-            
-        }
+        let dict : NSDictionary = NSDictionary(contentsOfURL: url)!
+        val = dict.objectForKey("URL") as! String
     }
     
     print(val)
