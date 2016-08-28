@@ -184,6 +184,8 @@
 	<string>📍</string>
 	<key>man</key>
 	<string>👨🏻</string>
+	<key>memo</key>
+	<string>📝</string>
 	<key>mintz</key>
 	<string>🔏</string>
 	<key>monkey</key>
@@ -218,6 +220,10 @@
 	<string>🍝</string>
 	<key>peach</key>
 	<string>🍑</string>
+	<key>pen</key>
+	<string>🖊</string>
+	<key>pencil</key>
+	<string>✏️</string>
 	<key>pig</key>
 	<string>🐷</string>
 	<key>phone</key>
