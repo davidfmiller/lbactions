@@ -242,6 +242,8 @@
 	<string>🙏🏻</string>
 	<key>princess</key>
 	<string>👸🏻</string>
+	<key>psychic</key>
+	<string>🔮</string>
 	<key>race</key>
 	<string>🏁</string>
 	<key>run</key>
@@ -354,6 +356,10 @@
 	<string>⇧</string>
 	<key>degree</key>
 	<string>º</string>
+	<key>empty</key>
+	<string>∅</string>
+	<key>infinity</key>
+	<string>∞</string>
 	<key>delete</key>
 	<string>⌫</string>
 	<key>1/2</key>
