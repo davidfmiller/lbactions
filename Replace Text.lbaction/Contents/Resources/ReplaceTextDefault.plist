@@ -324,6 +324,10 @@
 	<string>😭</string>
 	<key>shrug</key>
 	<string>¯\_(ツ)_/¯</string>
+	<key>?!</key>
+	<string>‽</string>
+	<key>!?</key>
+	<string>‽</string>
 	<key>reg</key>
 	<string>®</string>
 	<key>dagger</key>
