@@ -1,0 +1,25 @@
+# curl https://raw.githubusercontent.com/davidfmiller/dotfiles/master/dotgitignore > ./.gitignore
+
+# logs
+npm-debug.log
+
+# compiled files/libs
+*.pyc
+build
+node_modules
+bower_components
+*.sass-cache*
+*.exe
+
+# finder/explorer config files
+.DS_Store
+.localized
+Desktop.ini
+
+# thumbnail caches
+._*
+Thumbs.db
+
+# files that might appear on external disks
+.Spotlight-V100
+.Trashes
