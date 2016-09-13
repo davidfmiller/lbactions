@@ -2,10 +2,10 @@
 
 import Foundation
 
-let arguments = Array(Process.arguments[1 ..< Process.arguments.count])
-let fileManager = NSFileManager.defaultManager()
+let arguments = Array(CommandLine.arguments[1 ..< CommandLine.arguments.count])
+let fileManager = FileManager.default
 
-let stderr = NSFileHandle.fileHandleWithStandardError()
+let stderr = FileHandle.standardError
 
 for arg in arguments
 {
@@ -15,7 +15,7 @@ for arg in arguments
     
     if !url.checkResourceIsReachableAndReturnError(&err)
     {
-        stderr.writeData("🚫  file `\(arg)` doesn't exist".dataUsingEncoding(NSUTF8StringEncoding)!)
+        stderr.write("🚫  file `\(arg)` doesn't exist".data(using: String.Encoding.utf8)!)
         continue;
     }
 
@@ -23,9 +23,9 @@ for arg in arguments
 
     if url.pathExtension == "webloc"
     {
-        let dict : NSDictionary = NSDictionary(contentsOfURL: url)!
-        val = dict.objectForKey("URL") as! String
+        let dict : NSDictionary = NSDictionary(contentsOf: url as URL)!
+        val = dict["URL"] as! String
     }
-    
+
     print(val)
 }
