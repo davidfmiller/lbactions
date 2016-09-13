@@ -5,7 +5,7 @@
 import Foundation
 import Cocoa
 
-let arguments = Array(Process.arguments[1 ..< Process.arguments.count])
+let arguments = Array(CommandLine.arguments[1 ..< CommandLine.arguments.count])
 
 let PATH = "../Resources/ReplaceTextDefault.plist"
 
@@ -13,7 +13,7 @@ let dict : NSDictionary! = NSDictionary(contentsOfFile:PATH)
 
 for arg in arguments
 {
-    let value = dict.objectForKey(arg.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())) as? String
+    let value = dict[arg.trimmingCharacters(in: CharacterSet.whitespaces)] as? String
     if value != nil
     {
         print(value!)
