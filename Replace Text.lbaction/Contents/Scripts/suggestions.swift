@@ -3,7 +3,7 @@
 import Foundation
 import Cocoa
 
-let arguments = Array(Process.arguments[1 ..< Process.arguments.count])
+let arguments = Array(CommandLine.arguments[1 ..< CommandLine.arguments.count])
 
 if arguments.count < 1
 {
@@ -17,7 +17,7 @@ else
     let keys : [String] = dict.allKeys as! [String]
 
     let filtered = keys.filter() {
-        return $0.rangeOfString(arguments[0].stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceCharacterSet())) != nil
+        return $0.range(of:arguments[0].trimmingCharacters(in: CharacterSet.whitespaces)) != nil
     }
 
     var buf = ""
@@ -28,8 +28,7 @@ else
     }
 
     print(
-        buf.stringByTrimmingCharactersInSet(
-            NSCharacterSet.whitespaceAndNewlineCharacterSet()
+        buf.trimmingCharacters(in: CharacterSet.whitespacesAndNewlines
         )
     )
 }
