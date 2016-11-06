@@ -42,6 +42,8 @@
 	<string>👢</string>
 	<key>bowling</key>
 	<string>🎳</string>
+	<key>bug</key>
+	<string>🐛</string>
 	<key>burger</key>
 	<string>🍔</string>
 	<key>bus</key>
@@ -54,8 +56,6 @@
 	<string>🍰</string>
 	<key>calendar</key>
 	<string>📅</string>
-	<key>caterpillar</key>
-	<string>🐛</string>
 	<key>camera</key>
 	<string>📷</string>
 	<key>canada</key>
@@ -63,7 +63,7 @@
 	<key>candy</key>
 	<string>🍬</string>
 	<key>car</key>
-	<string>🚙</string>
+	<string>🚗</string>
 	<key>cat</key>
 	<string>🐱</string>
 	<key>chat</key>
@@ -150,6 +150,8 @@
 	<string>🍦</string>
 	<key>gun</key>
 	<string>🔫</string>
+	<key>heart</key>
+	<string>❤️</string>
 	<key>hmm</key>
 	<string>🤔</string>
 	<key>home</key>
@@ -168,6 +170,8 @@
 	<string>🍋</string>
 	<key>lime</key>
 	<string>🍈</string>
+	<key>link</key>
+	<string>🔗</string>
 	<key>lion</key>
 	<string>🦁</string>
 	<key>lipstick</key>
@@ -254,6 +258,8 @@
 	<string>👞</string>
 	<key>snake</key>
 	<string>🐍</string>
+	<key>skull</key>
+	<string>☠️</string>
 	<key>snow</key>
 	<string>❄️</string>
 	<key>soccer</key>
@@ -262,6 +268,8 @@
 	<string>⭐️</string>
 	<key>sun</key>
 	<string>☀️</string>
+	<key>sure</key>
+	<string>🙄</string>
 	<key>sushi</key>
 	<string>🍣</string>
 	<key>swim</key>
@@ -272,6 +280,8 @@
 	<string>⏳</string>
 	<key>thx</key>
 	<string>👍🏻</string>
+	<key>tongue</key>
+	<string>👅</string>
 	<key>train</key>
 	<string>🚂</string>
 	<key>trophy</key>
@@ -328,6 +338,8 @@
 	<string>😭</string>
 	<key>shrug</key>
 	<string>¯\_(ツ)_/¯</string>
+	<key>!</key>
+	<string>⚠️</string>
 	<key>?!</key>
 	<string>‽</string>
 	<key>!?</key>
@@ -362,8 +374,12 @@
 	<string>∅</string>
 	<key>infinity</key>
 	<string>∞</string>
+	<key>*</key>
+	<string>×</string>
 	<key>delete</key>
 	<string>⌫</string>
+	<key>enter</key>
+	<string>↵</string>
 	<key>1/2</key>
 	<string>½</string>
 	<key>appl</key>
@@ -396,16 +412,24 @@
 	<string>https://www.youtube.com/watch?v=hTOKJTRHMdw</string>
 	<key>knowwhatimsaying</key>
 	<string>https://www.youtube.com/watch?v=FoWnIhDuW4g</string>
+	<key>comeback</key>
+	<string>https://www.youtube.com/watch?v=vimZj8HW0Kg#t=0m09s</string>
+	<key>4d3d3d3</key>
+	<string>https://www.youtube.com/watch?v=XWX4GUYGQXQ</string>
 	<key>haters</key>
 	<string>http://hyperallergic.com/wp-content/uploads/2015/01/jamel-musson-chappelles-show.jpg</string>
 	<key>idontcare</key>
 	<string>https://www.youtube.com/watch?v=1NNx26bkI9I</string>
+	<key>took our jobs</key>
+	<string>https://www.youtube.com/watch?v=toL1tXrLA1c</string>
 	<key>ilikemoney</key>
 	<string>https://www.youtube.com/watch?v=sZHCVyllnck</string>
 	<key>listentoyourheart</key>
 	<string>https://www.youtube.com/watch?v=yCC_b5WHLX0</string>
 	<key>mindblown</key>
 	<string>http://mashable.com/wp-content/uploads/2013/08/mind-blown.gif</string>
+	<key>miracle</key>
+	<string>https://www.youtube.com/watch?v=_-agl0pOQfs</string>
 	<key>over</key>
 	<string>https://www.youtube.com/watch?v=YlGqN3AKOsA</string>
 	<key>inurbase</key>
@@ -420,8 +444,10 @@
 	<string>https://www.youtube.com/watch?v=ZXsQAXx_ao0</string>
 	<key>surprise motherfucker</key>
 	<string>https://www.youtube.com/watch?v=_bSEfx6D8mA</string>
+	<key>sucks</key>
+	<string>https://www.youtube.com/watch?v=VYrFnW8jpWA</string>
 	<key>buttinthegym</key>
-	<string>https://www.youtube.com/watch?v=uoLHxkKtJZw&amp;feature=youtu.be</string>
+	<string>https://www.youtube.com/watch?v=VYrFnW8jpWA</string>
 	<key>blogger</key>
 	<string>http://southparkstudios.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg</string>
 </dict>
