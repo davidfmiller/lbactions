@@ -6,8 +6,6 @@
 	<string>💯</string>
 	<key>alien</key>
 	<string>👽</string>
-	<key>angel</key>
-	<string>😇</string>
 	<key>apple</key>
 	<string>🍎</string>
 	<key>bag</key>
@@ -152,8 +150,6 @@
 	<string>🔫</string>
 	<key>heart</key>
 	<string>❤️</string>
-	<key>hmm</key>
-	<string>🤔</string>
 	<key>hockey</key>
 	<string>🏒</string>
 	<key>home</key>
@@ -274,8 +270,6 @@
 	<string>⭐️</string>
 	<key>sun</key>
 	<string>☀️</string>
-	<key>sure</key>
-	<string>🙄</string>
 	<key>sushi</key>
 	<string>🍣</string>
 	<key>swim</key>
@@ -324,6 +318,8 @@
 	<string>🔍</string>
 	<key>$</key>
 	<string>💰</string>
+	<key>angel</key>
+	<string>😇</string>
 	<key>zzz</key>
 	<string>😴</string>
 	<key>:)</key>
@@ -344,6 +340,10 @@
 	<string>😘</string>
 	<key>mute</key>
 	<string>😶</string>
+	<key>hmm</key>
+	<string>🤔</string>
+	<key>sure</key>
+	<string>🙄</string>
 	<key>:|</key>
 	<string>😐</string>
 	<key>yum</key>
