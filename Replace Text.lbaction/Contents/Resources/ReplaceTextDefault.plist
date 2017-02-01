@@ -258,6 +258,8 @@
 	<string>🏁</string>
 	<key>run</key>
 	<string>🏃🏻</string>
+	<key>scissors</key>
+	<string>✂️</string>
 	<key>shoe</key>
 	<string>👞</string>
 	<key>snake</key>
@@ -284,6 +286,8 @@
 	<string>⏳</string>
 	<key>thx</key>
 	<string>👍🏻</string>
+	<key>ticket</key>
+	<string>🎟</string>
 	<key>tongue</key>
 	<string>👅</string>
 	<key>train</key>
@@ -424,8 +428,12 @@
 	<string>⅒</string>
 	<key>america</key>
 	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
+	<key>blogger</key>
+	<string>http://southparkstudios.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg</string>
 	<key>fuckyou</key>
 	<string>https://www.youtube.com/watch?v=hTOKJTRHMdw</string>
+	<key>entertained</key>
+	<string>https://www.youtube.com/watch?v=FsqJFIJ5lLs</string>
 	<key>knowwhatimsaying</key>
 	<string>https://www.youtube.com/watch?v=FoWnIhDuW4g</string>
 	<key>comeback</key>
@@ -450,6 +458,8 @@
 	<string>https://www.youtube.com/watch?v=YlGqN3AKOsA</string>
 	<key>inurbase</key>
 	<string>http://images.figure.fm/cgm/images/post/20110325/25508/208892/large/17aa488bb68c82c24026e9e728282cc2.jpg</string>
+	<key>pussy</key>
+	<string>https://www.youtube.com/watch?v=TxXwXD27los</string>
 	<key>payme</key>
 	<string>https://c2.staticflickr.com/6/5266/5696508703_c320530066_o.jpg</string>
 	<key>schwifty</key>
@@ -463,8 +473,8 @@
 	<key>sucks</key>
 	<string>https://www.youtube.com/watch?v=VYrFnW8jpWA</string>
 	<key>buttinthegym</key>
-	<string>https://www.youtube.com/watch?v=VYrFnW8jpWA</string>
-	<key>blogger</key>
-	<string>http://southparkstudios.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg</string>
+	<string>https://www.youtube.com/watch?v=uoLHxkKtJZw</string>
+	<key>worstday</key>
+	<string>https://www.youtube.com/watch?v=-81WdyD-8Ro</string>
 </dict>
 </plist>
