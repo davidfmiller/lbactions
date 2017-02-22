@@ -426,6 +426,10 @@
 	<string>≥</string>
 	<key>tenth</key>
 	<string>⅒</string>
+	<key>cubed</key>
+	<string>³</string>
+	<key>squared</key>
+	<string>²</string>
 	<key>america</key>
 	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
 	<key>blogger</key>
