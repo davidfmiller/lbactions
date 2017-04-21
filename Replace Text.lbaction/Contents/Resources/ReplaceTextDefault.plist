@@ -430,6 +430,10 @@
 	<string>³</string>
 	<key>squared</key>
 	<string>²</string>
+	<key>&apos;</key>
+	<string>’</string>
+	<key>&quot;&quot;</key>
+	<string>“”</string>
 	<key>america</key>
 	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
 	<key>blogger</key>
@@ -444,6 +448,8 @@
 	<string>https://www.youtube.com/watch?v=vimZj8HW0Kg#t=0m09s</string>
 	<key>4d3d3d3</key>
 	<string>https://www.youtube.com/watch?v=XWX4GUYGQXQ</string>
+	<key>do it live</key>
+	<string>https://www.youtube.com/watch?v=O_HyZ5aW76c</string>
 	<key>haters</key>
 	<string>http://hyperallergic.com/wp-content/uploads/2015/01/jamel-musson-chappelles-show.jpg</string>
 	<key>idontcare</key>
