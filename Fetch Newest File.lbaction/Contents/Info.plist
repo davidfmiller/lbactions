@@ -7,9 +7,9 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.readmeansrun.lbactions.NewestFile</string>
 	<key>CFBundleName</key>
-	<string>Retrieve Newest File</string>
+	<string>Fetch Newest File</string>
 	<key>CFBundleVersion</key>
-	<string>0.1</string>
+	<string>0.2</string>
 	<key>LBArgument</key>
 	<string>N/A</string>
 	<key>LBDescription</key>
@@ -21,7 +21,7 @@
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
 		<key>LBSummary</key>
-		<string>Retrieve the newest file in your </string>
+		<string>Fetch the newest file from [~/Desktop, ~/Downloads]</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
