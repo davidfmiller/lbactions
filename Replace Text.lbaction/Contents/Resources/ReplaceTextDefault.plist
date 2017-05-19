@@ -396,6 +396,8 @@
 	<string>∞</string>
 	<key>*</key>
 	<string>×</string>
+	<key>+-</key>
+	<string>±</string>
 	<key>delete</key>
 	<string>⌫</string>
 	<key>enter</key>
