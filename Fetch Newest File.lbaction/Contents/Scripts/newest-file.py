@@ -25,15 +25,19 @@ newest = None
 
 for i in dirs:
 
-  f = max(glob.iglob(i + '/*.*'), key=os.path.getctime)
-  if not f:
+  try:
+    f = max(glob.iglob(i + '/*.*'), key=os.path.getctime)
+    if not f:
+      continue
+  except ValueError:
     continue
 
   if not newest or os.path.getctime(f) > os.path.getctime(newest):
     newest = f
 
 if not newest:
-  sys.stderr.write('🚫  No file')
-  sys.exit(2)
-
-print json.dumps({ 'path' : newest })
+#  sys.stderr.write('🚫  No file')
+#  sys.exit(2)
+  sys.stdout.write('')
+else:
+  print json.dumps({ 'path' : newest })
