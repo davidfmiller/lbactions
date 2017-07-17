@@ -132,6 +132,8 @@
 	<string>🌻</string>
 	<key>frog</key>
 	<string>🐸</string>
+	<key>ghost</key>
+	<string>👻</string>
 	<key>gift</key>
 	<string>🎁</string>
 	<key>globe</key>
@@ -438,9 +440,11 @@
 	<string>“”</string>
 	<key>america</key>
 	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
+	<key>ain&apos;t nobody</key>
+	<string>https://www.youtube.com/watch?v=waEC-8GFTP4#t=0m28s</string>
 	<key>blogger</key>
 	<string>http://southparkstudios.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg</string>
-	<key>fuckyou</key>
+	<key>fuck you</key>
 	<string>https://www.youtube.com/watch?v=hTOKJTRHMdw</string>
 	<key>entertained</key>
 	<string>https://www.youtube.com/watch?v=FsqJFIJ5lLs</string>
@@ -460,7 +464,7 @@
 	<string>https://www.youtube.com/watch?v=toL1tXrLA1c</string>
 	<key>ilikemoney</key>
 	<string>https://www.youtube.com/watch?v=sZHCVyllnck</string>
-	<key>listentoyourheart</key>
+	<key>listen to your heart</key>
 	<string>https://www.youtube.com/watch?v=yCC_b5WHLX0</string>
 	<key>mindblown</key>
 	<string>http://mashable.com/wp-content/uploads/2013/08/mind-blown.gif</string>
