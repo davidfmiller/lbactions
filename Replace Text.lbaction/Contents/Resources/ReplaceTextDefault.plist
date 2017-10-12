@@ -338,6 +338,8 @@
 	<string>😈</string>
 	<key>eww</key>
 	<string>😪</string>
+	<key>eyeroll</key>
+	<string>🙄</string>
 	<key>kiss</key>
 	<string>😘</string>
 	<key>mute</key>
@@ -456,10 +458,8 @@
 	<string>https://www.youtube.com/watch?v=XWX4GUYGQXQ</string>
 	<key>do it live</key>
 	<string>https://www.youtube.com/watch?v=O_HyZ5aW76c</string>
-
 	<key>guards</key>
 	<string>https://www.youtube.com/watch?v=No3xu-NU_xA</string>
-
 	<key>haters</key>
 	<string>http://hyperallergic.com/wp-content/uploads/2015/01/jamel-musson-chappelles-show.jpg</string>
 	<key>idontcare</key>
