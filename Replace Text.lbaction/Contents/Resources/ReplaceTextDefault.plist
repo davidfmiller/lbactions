@@ -426,6 +426,8 @@
 	<string>←</string>
 	<key>...</key>
 	<string>…</string>
+	<key>$1</key>
+	<string>https://www.youtube.com/watch?v=bjB3vk0Vk3w</string>
 	<key>&lt;=</key>
 	<string>≤</string>
 	<key>&gt;=</key>
