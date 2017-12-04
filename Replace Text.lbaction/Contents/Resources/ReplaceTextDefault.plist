@@ -75,7 +75,7 @@
 	<key>chicken</key>
 	<string>🐔</string>
 	<key>clap</key>
-	<string>👏🏻</string>
+	<string>👏</string>
 	<key>clock</key>
 	<string>🕰</string>
 	<key>coffee</key>
@@ -125,9 +125,9 @@
 	<key>fish</key>
 	<string>🐟</string>
 	<key>fist</key>
-	<string>👊🏻</string>
+	<string>👊</string>
 	<key>flex</key>
-	<string>💪🏻</string>
+	<string>💪</string>
 	<key>flower</key>
 	<string>🌻</string>
 	<key>frog</key>
@@ -157,7 +157,7 @@
 	<key>home</key>
 	<string>🏡</string>
 	<key>horns</key>
-	<string>🤘🏻</string>
+	<string>🤘</string>
 	<key>horse</key>
 	<string>🐴</string>
 	<key>key</key>
@@ -165,7 +165,7 @@
 	<key>knife</key>
 	<string>🔪</string>
 	<key>lame</key>
-	<string>👎🏻</string>
+	<string>👎</string>
 	<key>lemon</key>
 	<string>🍋</string>
 	<key>lime</key>
@@ -215,7 +215,7 @@
 	<key>no</key>
 	<string>🚫</string>
 	<key>ok</key>
-	<string>👌🏻</string>
+	<string>👌</string>
 	<key>package</key>
 	<string>📦</string>
 	<key>panda</key>
@@ -247,7 +247,7 @@
 	<key>pin</key>
 	<string>📌</string>
 	<key>pray</key>
-	<string>🙏🏻</string>
+	<string>🙏</string>
 	<key>princess</key>
 	<string>👸🏻</string>
 	<key>psychic</key>
@@ -305,7 +305,7 @@
 	<key>van</key>
 	<string>🚐</string>
 	<key>wave</key>
-	<string>👋🏻</string>
+	<string>👋</string>
 	<key>wind</key>
 	<string>💨</string>
 	<key>wine</key>
