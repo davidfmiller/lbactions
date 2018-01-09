@@ -434,6 +434,8 @@
 	<string>≤</string>
 	<key>&gt;=</key>
 	<string>≥</string>
+	<key>divide</key>
+	<string>÷</string>
 	<key>tenth</key>
 	<string>⅒</string>
 	<key>cubed</key>
