@@ -78,6 +78,8 @@
 	<string>👏</string>
 	<key>clock</key>
 	<string>🕰</string>
+	<key>cloud</key>
+	<string>☁️</string>
 	<key>coffee</key>
 	<string>☕️</string>
 	<key>computer</key>
@@ -466,6 +468,8 @@
 	<string>https://www.youtube.com/watch?v=O_HyZ5aW76c</string>
 	<key>full retard</key>
 	<string>https://www.youtube.com/watch?v=X6WHBO_Qc-Q</string>
+	<key>gay</key>
+	<string>https://www.youtube.com/watch?v=eAEiI_x71Ko</string>
 	<key>guards</key>
 	<string>https://www.youtube.com/watch?v=No3xu-NU_xA</string>
 	<key>haters</key>
