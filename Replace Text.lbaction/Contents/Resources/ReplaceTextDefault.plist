@@ -285,7 +285,7 @@
 	<key>timer</key>
 	<string>⏳</string>
 	<key>thx</key>
-	<string>👍🏻</string>
+	<string>👍</string>
 	<key>ticket</key>
 	<string>🎟</string>
 	<key>tongue</key>
@@ -448,6 +448,8 @@
 	<string>’</string>
 	<key>&quot;&quot;</key>
 	<string>“”</string>
+	<key>?</key>
+	<string>❓</string>
 	<key>america</key>
 	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
 	<key>ain&apos;t nobody</key>
