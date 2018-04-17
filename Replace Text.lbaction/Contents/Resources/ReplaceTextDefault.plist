@@ -256,6 +256,8 @@
 	<string>🔮</string>
 	<key>race</key>
 	<string>🏁</string>
+	<key>rain</key>
+	<string>🌧</string>
 	<key>rainbow</key>
 	<string>🌈</string>
 	<key>run</key>
@@ -456,6 +458,8 @@
 	<string>https://www.youtube.com/watch?v=FUqDHW0jmkw</string>
 	<key>ain&apos;t nobody</key>
 	<string>https://www.youtube.com/watch?v=waEC-8GFTP4#t=0m28s</string>
+	<key>chewbacca</key>
+	<string>https://www.youtube.com/watch?v=xwdba9C2G14</string>
 	<key>blogger</key>
 	<string>http://southparkstudios.mtvnimages.com/images/shows/south-park/clip-thumbnails/season-10/1008/south-park-s10e08c05-the-slaughter-16x9.jpg</string>
 	<key>fuck you</key>
