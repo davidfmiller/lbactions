@@ -98,7 +98,7 @@
 	<string>🌚</string>
 	<key>dream</key>
 	<string>💭</string>
-	<key>darts</key>
+	<key>dart</key>
 	<string>🎯</string>
 	<key>deaf</key>
 	<string>🙉</string>
@@ -152,6 +152,8 @@
 	<string>🍦</string>
 	<key>gun</key>
 	<string>🔫</string>
+	<key>hammer</key>
+	<string>🔨</string>
 	<key>heart</key>
 	<string>❤️</string>
 	<key>hockey</key>
