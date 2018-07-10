@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>com.apple.stickies</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.readmeansrun.lbactions.newStickFromClipboard</string>
+	<key>CFBundleName</key>
+	<string>New Sticky From Clipboard</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.apple.stickies</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>David Miller</string>
+		<key>LBEmail</key>
+		<string>davidfmiller@me.com</string>
+		<key>LBSummary</key>
+		<string>Create a new Sticky from the contents of the clipboard</string>
+		<key>LBTwitter</key>
+		<string>eldaverino</string>
+		<key>LBWebsiteURL</key>
+		<string>https://readmeansrun.com</string>
+	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
+	<key>LBRequiredApplication</key>
+	<string>com.apple.stickies</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.12</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2018 READMEANSRUN</string>
+</dict>
+</plist>
