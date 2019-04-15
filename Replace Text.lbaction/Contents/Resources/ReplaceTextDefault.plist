@@ -123,7 +123,7 @@
 	<key>facetime</key>
 	<string>👨🏻⏱</string>
 	<key>false</key>
-	<string>https://video.twimg.com/ext_tw_video/1116843589781168129/pu/pl/mepfvAQNomD6h2t9.m3u8?tag=8&descending=true</string>
+	<string>https://video.twimg.com/ext_tw_video/1116843589781168129/pu/pl/mepfvAQNomD6h2t9.m3u8?tag=8&amp;descending=true</string>
 	<key>fax</key>
 	<string>📠</string>
 	<key>fire</key>
