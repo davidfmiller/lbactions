@@ -5,22 +5,24 @@
 	<key>CFBundleIconFile</key>
 	<string>💡</string>
 	<key>CFBundleIdentifier</key>
-	<string>ca.dfmllc.launchbar.toggleDark</string>
+	<string>ca.dfmllc.lbactions.toggleDark</string>
 	<key>CFBundleName</key>
 	<string>Toggle Dark Mode</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
-		<string></string>
+		<string>dave</string>
 		<key>LBEmail</key>
 		<string></string>
 		<key>LBTwitter</key>
-		<string></string>
+		<string>eldaverino</string>
 		<key>LBWebsiteURL</key>
-		<string></string>
+		<string>https://dfmllc.ca</string>
 	</dict>
 	<key>LBMinimumLaunchBarVersion</key>
-	<integer>8</integer>
+	<integer>6</integer>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
