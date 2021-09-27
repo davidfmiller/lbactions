@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>💡</string>
+	<key>CFBundleIdentifier</key>
+	<string>ca.dfmllc.launchbar.toggleDark</string>
+	<key>CFBundleName</key>
+	<string>Toggle Dark Mode</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string></string>
+		<key>LBEmail</key>
+		<string></string>
+		<key>LBTwitter</key>
+		<string></string>
+		<key>LBWebsiteURL</key>
+		<string></string>
+	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>8</integer>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>11</string>
+</dict>
+</plist>
