@@ -424,6 +424,14 @@
 	<string>↵</string>
 	<key>1/2</key>
 	<string>½</string>
+	<key>1/3</key>
+	<string>⅓</string>
+	<key>2/3</key>
+	<string>⅔</string>
+	<key>1/4</key>
+	<string>¼</string>
+	<key>3/4</key>
+	<string>¾</string>
 	<key>appl</key>
 	<string></string>
 	<key>-&gt;</key>
