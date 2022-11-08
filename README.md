@@ -4,4 +4,4 @@ Custom actions for [Objective Development](https://www.obdev.at/index.html)'s ex
 
 Documentation is available at [http://davidfmiller.github.io/lbactions](http://davidfmiller.github.io/lbactions).
 
-Please the `.lbaction` files/directories in `~/Library/Application Support/Launchbar/Actions`.
+Place the `.lbaction` files/directories in `~/Library/Application Support/Launchbar/Actions`.
