@@ -3,51 +3,43 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>🔍</string>
+	<string>📋</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.NewestFile</string>
+	<string>com.readmeansrun.lbactions.plainTextClipboard</string>
 	<key>CFBundleName</key>
-	<string>Fetch Newest File</string>
+	<string>Plain Text Clipboard</string>
 	<key>CFBundleVersion</key>
-	<string>0.2</string>
-	<key>LBArgument</key>
-	<string>N/A</string>
+	<string>1.0</string>
 	<key>LBDescription</key>
 	<dict>
-		<key>LBArgument</key>
-		<string>N/A</string>
 		<key>LBAuthor</key>
 		<string>David Miller</string>
 		<key>LBEmail</key>
 		<string>davidfmiller@me.com</string>
 		<key>LBSummary</key>
-		<string>Fetch the newest file from [~/Desktop, ~/Downloads]</string>
+		<string>Create a new Sticky from the contents of the clipboard</string>
 		<key>LBTwitter</key>
-		<string>@eldaverino</string>
+		<string>eldaverino</string>
 		<key>LBWebsiteURL</key>
 		<string>https://readmeansrun.com</string>
 	</dict>
 	<key>LBMinimumLaunchBarVersion</key>
 	<integer>6</integer>
-	<key>LBRequiredApplication</key>
-	<string>com.apple.Terminal</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
 		<dict>
-			<key>LBKeepWindowActive</key>
-			<true/>
 			<key>LBResultType</key>
-			<string>path</string>
-			<key>LBReturnsResult</key>
+			<string>unknown</string>
+			<key>LBRunInBackground</key>
 			<true/>
 			<key>LBScriptName</key>
-			<string>newest-file.py</string>
+			<string>default.scpt</string>
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2017 READMEANSRUN</string>
+	<string>© 2023 READMEANSRUN</string>
 </dict>
 </plist>
