@@ -3,19 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>Internet</string>
+	<string>Calendar</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.readmeansrun.lbactions.LaunchBar.action.URL</string>
+	<string>com.readmeansrun.lbactions.iso8601</string>
 	<key>CFBundleName</key>
-	<string>Get URL</string>
+	<string>ISO8601</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
-	<key>LBArgument</key>
-	<string>Filename</string>
 	<key>LBDescription</key>
 	<dict>
-		<key>LBArgument</key>
-		<string>Filename</string>
 		<key>LBAuthor</key>
 		<string>David Miller</string>
 		<key>LBEmail</key>
@@ -23,11 +19,11 @@
 		<key>LBResult</key>
 		<string>String</string>
 		<key>LBSummary</key>
-		<string>Retrieve the URL for a file; if it's a .webloc file then the URL that the file links to will be retrieved</string>
+		<string>IS8601 Date</string>
 		<key>LBTwitter</key>
 		<string>@eldaverino</string>
 		<key>LBWebsiteURL</key>
-		<string>http://readmeansrun.com</string>
+		<string>http://davidfmiller.github.io/lbactions/</string>
 	</dict>
 	<key>LBMinimumLaunchBarVersion</key>
 	<integer>6</integer>
@@ -37,13 +33,7 @@
 	<dict>
 		<key>LBDefaultScript</key>
 		<dict>
-			<key>LBAcceptedArgumentTypes</key>
-			<array>
-				<string>path</string>
-			</array>
 			<key>LBKeepWindowActive</key>
-			<true/>
-			<key>LBRequiresArgument</key>
 			<true/>
 			<key>LBResultType</key>
 			<string>string</string>
@@ -54,8 +44,8 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.10</string>
+	<string>10</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2017 READMEANSRUN</string>
+	<string>© 2026 READMEANSRUN</string>
 </dict>
 </plist>
