@@ -466,6 +466,8 @@
 	<string>²</string>
 	<key>&apos;</key>
 	<string>’</string>
+	<key>&apos;&apos;</key>
+	<string>‘’</string>
 	<key>&quot;&quot;</key>
 	<string>“”</string>
 	<key>?</key>
