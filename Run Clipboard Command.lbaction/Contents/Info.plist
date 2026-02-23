@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>📋</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.readmeansrun.lbactions.runClipboardCommand</string>
+	<key>CFBundleName</key>
+	<string>Run Clipboard Command</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.apple.Terminal</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>David Miller</string>
+		<key>LBEmail</key>
+		<string>davidfmiller@me.com</string>
+		<key>LBTwitter</key>
+		<string>@eldaverino</string>
+		<key>LBWebsiteURL</key>
+		<string>http://davidfmiller.github.io/lbactions/</string>
+	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
+	<key>LBRequiredApplication</key>
+	<string>com.apple.Terminal</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2025 READMEANSRUN</string>
+</dict>
+</plist>
